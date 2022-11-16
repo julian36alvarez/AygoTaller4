@@ -22,7 +22,10 @@ La consola de Amplify proporciona una implementación continua y el alojamiento 
 ![image](https://user-images.githubusercontent.com/31891276/202299464-10039462-1859-4f7d-8606-83e2215a2d5a.png)
 
 #
-
-![image](https://user-images.githubusercontent.com/31891276/202300376-a1b85717-b298-4512-bd3c-09524fb6036b.png)
+![image](https://user-images.githubusercontent.com/31891276/202302435-4f04d88f-7bb3-48cd-9e85-7c36230db206.png)
 
 #
+![image](https://user-images.githubusercontent.com/31891276/202302822-4ce85d0a-e851-41b4-89ec-13595ca2f2ed.png)
+
+#
+
